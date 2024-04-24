@@ -1,4 +1,4 @@
 selenium==4.19.0
 Flask==3.0.3
 waitress==3.0.0
-webdrive_manager==3.9.1
+webdriver_manager==3.9.1
